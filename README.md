@@ -1,6 +1,7 @@
 # 🏦 Bank Management System
 
-Un système de gestion bancaire en C++ permettant de gérer les clients, leurs comptes et effectuer des transactions.
+Voici Mon 3 projet en c++ 
+Un système de gestion bancaire en C++ permettant de gérer les clients, leurs comptes et effectuer des transactions.(sans OOP).
 
 ## 📋 Fonctionnalités
 
@@ -139,10 +140,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 Votre Nom - [@Rikxzy]([(https://github.com/Rikxzy))
 
-## 🙏 Remerciements
-
-- Merci à tous les contributeurs
-- Inspiré par les systèmes bancaires modernes
 
 ---
 
