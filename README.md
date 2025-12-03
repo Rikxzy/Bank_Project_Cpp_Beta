@@ -136,11 +136,4 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 5. Ouvrir une Pull Request
 
 
-## 👤 Auteur
-
-Votre Nom - [@Rikxzy]([(https://github.com/Rikxzy))
-
-
----
-
 **Note :** Ce projet est à des fins éducatives. Pour un système bancaire réel, des mesures de sécurité supplémentaires seraient nécessaires.
