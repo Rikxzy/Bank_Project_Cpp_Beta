@@ -27,7 +27,7 @@ Un système de gestion bancaire en C++ permettant de gérer les clients, leurs c
 
 1. Clonez le repository :
 ```bash
-git clone https://github.com/votre-username/bank-management-system.git
+git clone https://github.com/Rikxzy/bank-management-system.git
 cd bank-management-system
 ```
 
